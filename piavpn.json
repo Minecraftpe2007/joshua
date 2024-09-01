@@ -205,18 +205,6 @@
         "udpdns": false
     },
     {
-        "server": "156.146.62.161",
-        "server_port": 443,
-        "password": "shadowsocks",
-        "method": "aes-128-gcm",
-        "remarks": "瑞士3",
-        "route": "all",
-        "remote_dns": "dns.google",
-        "ipv6": false,
-        "proxy_apps": { "enabled": false },
-        "udpdns": false
-    },
-    {
         "server": "156.146.38.167",
         "server_port": 443,
         "password": "shadowsocks",
