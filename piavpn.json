@@ -4,122 +4,215 @@
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "英国曼彻斯特1"
+        "remarks": "英国曼彻斯特",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
+    },
+    {
+        "server": "149.22.87.204",
+        "server_port": 443,
+        "password": "shadowsocks",
+        "method": "aes-128-gcm",
+        "remarks": "日本",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
     },
     {
         "server": "37.19.198.243",
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "美国新泽西1"
+        "remarks": "美国新泽西",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
     },
     {
         "server": "156.146.38.169",
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "美国西南部1"
+        "remarks": "美国西南部",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
     },
     {
         "server": "212.102.47.130",
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "美国西雅图1"
+        "remarks": "美国西雅图",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
     },
     {
-        "server": "212.102.47.131",
+        "server": "212.102.53.78",
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "美国西雅图2"
-    },
-    {
-        "server": "156.146.62.161",
-        "server_port": 443,
-        "password": "shadowsocks",
-        "method": "aes-128-gcm",
-        "remarks": "瑞士1"
-    },
-    {
-        "server": "141.98.101.181",
-        "server_port": 443,
-        "password": "shadowsocks",
-        "method": "aes-128-gcm",
-        "remarks": "英国曼彻斯特2"
-    },
-    {
-        "server": "149.22.87.240",
-        "server_port": 443,
-        "password": "shadowsocks",
-        "method": "aes-128-gcm",
-        "remarks": "日本1"
-    },
-    {
-        "server": "37.19.198.160",
-        "server_port": 443,
-        "password": "shadowsocks",
-        "method": "aes-128-gcm",
-        "remarks": "美国新泽西2"
-    },
-    {
-        "server": "156.146.38.168",
-        "server_port": 443,
-        "password": "shadowsocks",
-        "method": "aes-128-gcm",
-        "remarks": "美国西南部2"
+        "remarks": "英国",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
     },
     {
         "server": "156.146.62.162",
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "瑞士2"
+        "remarks": "瑞士",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
     },
     {
-        "server": "141.98.101.179",
+        "server": "212.102.47.131",
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "英国曼彻斯特3"
+        "remarks": "美国西雅图2",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
     },
     {
-        "server": "37.19.198.236",
+        "server": "156.146.62.161",
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "美国新泽西3"
+        "remarks": "瑞士2",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
     },
     {
-        "server": "156.146.38.170",
+        "server": "141.98.101.181",
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "美国西南部3"
+        "remarks": "英国曼彻斯特2",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
     },
     {
-        "server": "156.146.62.163",
+        "server": "149.22.87.240",
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "瑞士3"
+        "remarks": "日本2",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
     },
     {
-        "server": "141.98.101.182",
+        "server": "37.19.198.160",
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "英国曼彻斯特4"
+        "remarks": "美国新泽西2",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
+    },
+    {
+        "server": "156.146.38.168",
+        "server_port": 443,
+        "password": "shadowsocks",
+        "method": "aes-128-gcm",
+        "remarks": "美国西南部2",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
+    },
+    {
+        "server": "212.102.53.193",
+        "server_port": 443,
+        "password": "shadowsocks",
+        "method": "aes-128-gcm",
+        "remarks": "英国3",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
+    },
+    {
+        "server": "212.102.47.129",
+        "server_port": 443,
+        "password": "shadowsocks",
+        "method": "aes-128-gcm",
+        "remarks": "美国西雅图3",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
+    },
+    {
+        "server": "212.102.53.195",
+        "server_port": 443,
+        "password": "shadowsocks",
+        "method": "aes-128-gcm",
+        "remarks": "英国4",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
+    },
+    {
+        "server": "156.146.62.161",
+        "server_port": 443,
+        "password": "shadowsocks",
+        "method": "aes-128-gcm",
+        "remarks": "瑞士3",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
     },
     {
         "server": "156.146.38.167",
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "美国西南部4"
-    },
-    {
-        "server": "212.102.47.129",
-        "server_port": 443,
-        "password": "shadowsocks",
-        "method": "aes-128-gcm
+        "remarks": "美国西南部3",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
+    }
+]
