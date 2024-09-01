@@ -137,7 +137,7 @@
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "日本2",
+        "remarks": "日本3",
         "route": "all",
         "remote_dns": "dns.google",
         "ipv6": false,
