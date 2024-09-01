@@ -16,13 +16,26 @@
         "server_port": 443,
         "password": "shadowsocks",
         "method": "aes-128-gcm",
-        "remarks": "日本",
+        "remarks": "日本1",
         "route": "all",
         "remote_dns": "dns.google",
         "ipv6": false,
         "proxy_apps": { "enabled": false },
         "udpdns": false
     },
+    {
+        "server": "149.22.87.241",
+        "server_port": 443,
+        "password": "shadowsocks",
+        "method": "aes-128-gcm",
+        "remarks": "日本2",
+        "route": "all",
+        "remote_dns": "dns.google",
+        "ipv6": false,
+        "proxy_apps": { "enabled": false },
+        "udpdns": false
+    },
+
     {
         "server": "37.19.198.243",
         "server_port": 443,
