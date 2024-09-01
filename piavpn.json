@@ -119,3 +119,6 @@
         "proxy_apps": { "enabled": false },
         "udpdns": false
     },
+    "udpdns": false
+  }
+]
