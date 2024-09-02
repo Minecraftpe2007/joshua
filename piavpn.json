@@ -24,6 +24,18 @@
         "udpdns": false
     },
     {
+    "server": "141.98.101.179",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-gcm",
+    "remarks": "🇬🇧英国曼彻斯特4",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "proxy_apps": { "enabled": false },
+    "udpdns": false
+    },
+    {
         "server": "212.102.53.194",
         "server_port": 443,
         "password": "shadowsocks",
