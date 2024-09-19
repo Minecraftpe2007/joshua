@@ -86,6 +86,7 @@ proxies:
   - {"name":"🇸🇬新加坡HostHatch","type":"wireguard","server":"185.223.207.66","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
   - {"name":"🇺🇸美国芝加哥HostHatch","type":"wireguard","server":"193.29.62.34","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
   - {"name":"🇺🇸美国迈阿密M247","type":"wireguard","server":"162.252.175.86","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
+- {"name":"🇬🇧英国OVH","type":"wireguard","server":"uk1.sstpcon.com","port":51820,"udp":true,"ip":"10.8.50.3","private-key":"4Juw7DZQkFbKEOv2WfqWYQFvFXHB823i53YRisGqdmw=","public-key":"liZd+CDsHXWslnU5WaFxsy97NqGX4S4CYGeBsB8ngzE=","dns":["1.1.1.1"],"remote-dns-resolve":true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -98,6 +99,7 @@ proxy-groups:
       - 🇸🇬新加坡HostHatch
       - 🇺🇸美国芝加哥HostHatch
       - 🇺🇸美国迈阿密M247
+      - 🇬🇧英国OVH
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -110,6 +112,7 @@ proxy-groups:
       - 🇸🇬新加坡HostHatch
       - 🇺🇸美国芝加哥HostHatch
       - 🇺🇸美国迈阿密M247
+      - 🇬🇧英国OVH
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -122,6 +125,7 @@ proxy-groups:
       - 🇸🇬新加坡HostHatch
       - 🇺🇸美国芝加哥HostHatch
       - 🇺🇸美国迈阿密M247
+      - 🇬🇧英国OVH
   - name: 📲 电报信息
     type: select
     proxies:
@@ -133,6 +137,7 @@ proxy-groups:
       - 🇸🇬新加坡HostHatch
       - 🇺🇸美国芝加哥HostHatch
       - 🇺🇸美国迈阿密M247
+      - 🇬🇧英国OVH
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -144,6 +149,7 @@ proxy-groups:
       - 🇸🇬新加坡HostHatch
       - 🇺🇸美国芝加哥HostHatch
       - 🇺🇸美国迈阿密M247
+      - 🇬🇧英国OVH
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -155,6 +161,7 @@ proxy-groups:
       - 🇸🇬新加坡HostHatch
       - 🇺🇸美国芝加哥HostHatch
       - 🇺🇸美国迈阿密M247
+      - 🇬🇧英国OVH
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -183,6 +190,7 @@ proxy-groups:
       - 🇸🇬新加坡HostHatch
       - 🇺🇸美国芝加哥HostHatch
       - 🇺🇸美国迈阿密M247
+      - 🇬🇧英国OVH
 
 rules:
 # 本地/局域网地址
