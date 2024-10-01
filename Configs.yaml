@@ -79,12 +79,12 @@ dns:
 
 proxies:
 
-  - {"name":"🇫🇷法国巴黎M247","type":"wireguard","server":"158.255.215.4","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
-  - {"name":"🇳🇴挪威奥斯陆HostHatch","type":"wireguard","server":"185.175.56.201","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
-  - {"name":"🇯🇵日本东京HostHatch","type":"wireguard","server":"170.205.39.73","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
-  - {"name":"🇸🇬新加坡HostHatch","type":"wireguard","server":"185.223.207.66","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
-  - {"name":"🇺🇸美国芝加哥HostHatch","type":"wireguard","server":"193.29.62.34","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
-  - {"name":"🇺🇸美国迈阿密M247","type":"wireguard","server":"162.252.175.86","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
+  - {"name":"🇫🇷法国巴黎","type":"wireguard","server":"158.255.215.4","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
+  - {"name":"🇳🇴挪威奥斯陆","type":"wireguard","server":"185.175.56.201","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
+  - {"name":"🇯🇵日本东京","type":"wireguard","server":"170.205.39.73","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
+  - {"name":"🇸🇬新加坡","type":"wireguard","server":"185.223.207.66","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
+  - {"name":"🇺🇸美国芝加哥","type":"wireguard","server":"193.29.62.34","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
+  - {"name":"🇺🇸美国迈阿密","type":"wireguard","server":"162.252.175.86","port":51820,"udp":true,"ip":"10.0.7.146","private-key":"mEUvN4ZmPwwZrJTGW2iwU46aq9IZOvWWEebvSNnNhGw=","public-key":"ZjECCxTFtEDuLhjE7n3NicIpz77h9UN+pbfYOIbKQlQ=","dns":["1.1.1.1"],"remote-dns-resolve":true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
